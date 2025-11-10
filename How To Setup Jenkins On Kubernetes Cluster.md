@@ -354,6 +354,3 @@ A pod or node deletion could happen anytime in Kubernetes environments. It could
 Hope this step-by-step guide helps you to learn and understand the components involved in setting up a Jenkins server on a Kubernetes cluster.
 
 If you are looking for setting up container-based agents on Kubernetes, check out my guide on setting up Kubernetes pod as Jenkins build agents.
-
-
-```
