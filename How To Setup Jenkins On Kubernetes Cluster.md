@@ -1,7 +1,7 @@
 
 # How To Setup Jenkins On Kubernetes Cluster – Beginners Guide
 
-*By Bibin Wilson – Jan 12, 2021*  
+*By Lalith Charan – Nov 10, 2025*  
 *(approx. 6 min read)*
 
 ---
