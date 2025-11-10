@@ -1,7 +1,4 @@
-Here’s the markdown conversion of the article from DevOpsCube: *“How To Setup Jenkins On Kubernetes Cluster: Beginners Guide”*.
-Note: I’ve skipped navigation/footer boilerplate and retained the full technical content.
 
-```markdown
 # How To Setup Jenkins On Kubernetes Cluster – Beginners Guide
 
 *By Bibin Wilson – Jan 12, 2021*  
