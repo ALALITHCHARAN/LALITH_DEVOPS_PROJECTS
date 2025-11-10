@@ -1,9 +1,4 @@
 
-Here’s a markdown-ready version of the article from **DevOpsCube** — “How to Setup EFK Stack on Kubernetes: Step by Step Guides” — formatted for GitHub, and I’ve included placeholders for images which you should host (e.g., in your repo’s `images/` folder) and link accordingly.
-
----
-
-````markdown
 # How to Setup EFK Stack on Kubernetes: Step by Step Guides
 
 *By Shishir Khandelwal – Dec 9, 2021* :contentReference[oaicite:1]{index=1}  
