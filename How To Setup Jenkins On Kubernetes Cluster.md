@@ -355,20 +355,5 @@ Hope this step-by-step guide helps you to learn and understand the components in
 
 If you are looking for setting up container-based agents on Kubernetes, check out my guide on setting up Kubernetes pod as Jenkins build agents.
 
-[*Kubernetes tag*]
 
-```
-
----
-
-### Notes / Observations  
-- I *didn’t* include the GitHub link step callout beyond the markdown code block.  
-- I omitted all navigation links, author bio images/screenshots, and image placeholders — you can replace those with actual images if needed.  
-- Manifest YAML blocks are included verbatim.
-- Make sure to validate indentation in your markdown since large YAML blocks can mess up formatting in certain renderers.
-
----
-
-If you want a cleaned version with images inserted, or split into separate markdown sections/files (like for each manifest), I can do that too.
-::contentReference[oaicite:0]{index=0}
 ```
