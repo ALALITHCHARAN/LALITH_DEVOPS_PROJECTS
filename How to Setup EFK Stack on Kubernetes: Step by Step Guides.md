@@ -1,7 +1,7 @@
 
 # How to Setup EFK Stack on Kubernetes: Step by Step Guides
 
-*By Shishir Khandelwal – Dec 9, 2021* :contentReference[oaicite:1]{index=1}  
+*By Lalith Charan – Nov 10, 2025* :contentReference[oaicite:1]{index=1}  
 *(Approx. 11 min read)*
 
 ---
