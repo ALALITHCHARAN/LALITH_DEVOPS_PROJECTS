@@ -1,9 +1,4 @@
-Here is a **Markdown (.md)**-ready version of the article from DevOpsCube titled *“How to Setup Argo CD on Kubernetes [Beginners Guide]”*.
-I’ve included image placeholders — you will need to download the referenced images and place them in your repo (for example under `images/argo-cd/`) and adjust the links accordingly.
 
----
-
-````markdown
 # How to Setup Argo CD on Kubernetes [Beginners Guide]
 
 *By Aswin Vijayan – Apr 25, 2024*  
